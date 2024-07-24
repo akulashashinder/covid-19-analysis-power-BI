@@ -1,6 +1,6 @@
 # Covid-19_Global_Analytics_Power_BI_Project
 COVID-19 Analytics Power BI Dashboard
-![custom_thumb1620127439](https://github.com/akulashashinder/Covid-19_Global_Analytics_Power_BI_Project/assets/131745794/e87ee8d0-713e-4497-a096-f7677e3038d5)
+![custom_thumb1620127439](https://github.com/lijesh010/Covid-19_Global_Analytics_Power_BI_Project/assets/131745794/e87ee8d0-713e-4497-a096-f7677e3038d5)
 
 ## Overview
 The COVID-19 Analytics Power BI Dashboard is a comprehensive data visualization project that offers valuable insights into the impact of the COVID-19 pandemic worldwide. The dashboard is designed using Microsoft Power BI, providing an interactive and user-friendly interface to explore and analyze key metrics related to COVID-19 cases, deaths, recoveries, and more.
@@ -18,9 +18,9 @@ Visualize the geographic distribution of COVID-19 cases across different countri
 Monitor critical KPIs such as Case Fatality Rate (CFR), Recovery Rate, and Active Cases, helping to assess the severity and response to the pandemic.
 
 #### Dashboard:
-![Covid_19_Analytics_Power_BI_Dashboard_page-0001](https://github.com/akulashashinder/Covid-19_Global_Analytics_Power_BI_Project/assets/131745794/02ba9988-5d27-45d8-b941-a295fa7522a6)
+![Covid_19_Analytics_Power_BI_Dashboard_page-0001](https://github.com/lijesh010/Covid-19_Global_Analytics_Power_BI_Project/assets/131745794/02ba9988-5d27-45d8-b941-a295fa7522a6)
 
-![Covid_19_Analytics_Power_BI_Dashboard_page-0002](https://github.com/akulashashinder/Covid-19_Global_Analytics_Power_BI_Project/assets/131745794/af9cb5b3-bba1-4ceb-b330-73c72d272a47)
+![Covid_19_Analytics_Power_BI_Dashboard_page-0002](https://github.com/lijesh010/Covid-19_Global_Analytics_Power_BI_Project/assets/131745794/af9cb5b3-bba1-4ceb-b330-73c72d272a47)
 
 
 #### Customizable Filters: 
